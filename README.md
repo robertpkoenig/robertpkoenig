@@ -2,7 +2,7 @@
 
 ### Selected Portfolio
 
-*Music Box*
+*MUSICBOX*
 - Javascript
 - Object oriented, MVC design
 - Playable [demo](https://robertpkoenig.github.io/musicbox/)
@@ -12,7 +12,7 @@
 - Typescript
 - Object oriented, MVC design
 - Challenging physics engine
-- Procedurally generated river banks with sine waves and linked lists
+- Procedurally generated river
 - Playable [demo](https://robertpkoenig.github.io/mathcanoe/)
 - [Code](https://github.com/robertpkoenig/robertpkoenig.github.io/tree/master/mathcanoe)
 
