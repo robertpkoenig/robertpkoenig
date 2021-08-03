@@ -24,7 +24,7 @@
 
 ### About
 
-- 🔭 I’m currently working on my dissertation, which is an e-learning platform for Organic Chemistry mechanisms
+- 🔭 I’m currently working on my dissertation, which is an e-learning platform for organic chemistry mechanisms
 - 🌱 I’m currently learning React and Python
 - 👯 I’m looking to collaborate on projects that change the world
 - 📫 How to reach me: robertpkoenig at gmail dot com
