@@ -1,16 +1,30 @@
-### Hi there 👋
+# Robert Koenig 👋
 
-<!--
-**robertpkoenig/robertpkoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Selected Portfolio
 
-Here are some ideas to get you started:
+*Music Box*
+- Javascript
+- Object oriented, MVC design
+- Playable [demo](https://robertpkoenig.github.io/musicbox/)
+- [Code](https://github.com/robertpkoenig/robertpkoenig.github.io/tree/master/musicbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Math Canoe*
+- Typescript
+- Object oriented, MVC design
+- Challenging physics engine
+- Procedurally generated river banks with sine waves and linked lists
+- Playable [demo](https://robertpkoenig.github.io/mathcanoe/)
+- [Code](https://github.com/robertpkoenig/robertpkoenig.github.io/tree/master/mathcanoe)
+
+*Yahtzee*
+- Java
+- Test driven development with JUnit and Mockito
+- [Code](https://github.com/robertpkoenig/yahtzee)
+
+
+### About
+
+- 🔭 I’m currently working on my dissertation, which is an e-learning platform for Organic Chemistry mechanisms
+- 🌱 I’m currently learning React and Python
+- 👯 I’m looking to collaborate on projects that change the world
+- 📫 How to reach me: robertpkoenig at gmail dot com
