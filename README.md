@@ -2,15 +2,24 @@
 
 ### Selected Portfolio
 
+*Ochem.io*
+- Typescript
+- React / Next.js
+- Firebase
+- Tailwinds CSS
+- Functional and OOP styles
+- [Website](https://www.ochem.io/)
+- [Code](https://github.com/robertpkoenig/ochem)
+
 *MUSICBOX*
 - Javascript
-- Object oriented, MVC design
+- OOP, MVC design
 - Playable [demo](https://robertpkoenig.github.io/musicbox/)
 - [Code](https://github.com/robertpkoenig/robertpkoenig.github.io/tree/master/musicbox)
 
 *Math Canoe*
 - Typescript
-- Object oriented, MVC design
+- OOP, MVC design
 - Challenging physics engine
 - Procedurally generated river
 - Playable [demo](https://robertpkoenig.github.io/mathcanoe/)
@@ -19,6 +28,7 @@
 *Yahtzee*
 - Java
 - Test driven development with JUnit and Mockito
+- OOP
 - [Code](https://github.com/robertpkoenig/yahtzee)
 
 
