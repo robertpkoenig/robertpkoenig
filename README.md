@@ -4,7 +4,7 @@ Robert Koenig
 - Software Engineer, Starling
 - Msc Computer Science, 1st, University of St. Andrews
 - Startup founder, Spoonzy
-- Investment analyst, Baillie Gifford
+- Investment Analyst, Baillie Gifford
 
 (Portfolio)[https://robertpkoenig.github.io/]
 
