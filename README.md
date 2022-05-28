@@ -6,7 +6,7 @@ Robert Koenig
 - Startup founder, Spoonzy
 - Investment Analyst, Baillie Gifford
 
-(Portfolio)[https://robertpkoenig.github.io/]
+[Portfolio](https://robertpkoenig.github.io/)
 
 
 robertpkoenig at gmail dot com
