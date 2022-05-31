@@ -8,6 +8,6 @@ Robert Koenig
 
 [Portfolio](https://robertpkoenig.github.io/)
 
-
-robertpkoenig at gmail dot com
-+44 (0) 7419 846 984
+Contact
+- robertpkoenig at gmail dot com
+- +44 (0) 7419 846 984
